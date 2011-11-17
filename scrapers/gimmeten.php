@@ -1,8 +1,6 @@
 <?php
 
 $number=rand(1,3);
-//
-$number=1;
 switch ($number)
 {
 	case 1;
