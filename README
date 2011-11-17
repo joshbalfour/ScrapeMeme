@@ -1,0 +1,12 @@
+
+Preamble:
+So yeah, this is a little website scraper and viewer that I made, I did the PHP but the jQuery gallery is taken from here: http://brenelz.com/blog/build-a-content-slider-with-jquery/ 
+
+Things that need doing:
+	* parsing image URLs then scraping image from page
+	* auto-load more stuffs when the user runs out
+	* general spicing up
+	* choose the site to pull from, rather than random choice?
+
+License:
+The Don't be a dick license, detailed in the LICENSE file.
